@@ -1,6 +1,6 @@
 # Git-and-Github-
 Commands :
-SETUP & INIT
+SETUP & INIT /br
 Configuring user information, initializing and cloning repositories
 git init
 initialize an existing directory as a Git repository
