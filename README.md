@@ -5,7 +5,7 @@ Configuring user information, initializing and cloning repositories
 git init
 # initialize an existing directory as a Git repository
 git clone [url]
-retrieve an entire repository from a hosted location via URL
+# retrieve an entire repository from a hosted location via URL
 git status
 show modified files in working directory, staged for your next commitSTAGE & SNAPSHOT
 Working with snapshots and the Git staging area
