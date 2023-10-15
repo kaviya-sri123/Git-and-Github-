@@ -1,5 +1,5 @@
 # Git-and-Github-
-###**SETUP & INIT**
+### **SETUP & INIT**
 ### Configuring user information, initializing and cloning repositories
 git init
 ### initialize an existing directory as a Git repository 
